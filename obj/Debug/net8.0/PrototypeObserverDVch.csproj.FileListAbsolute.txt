@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\PrototypeObserverDVch\bin\Debug\net8.0\PrototypeObserverDVch.exe
+C:\Users\DELL\Desktop\PrototypeObserverDVch\bin\Debug\net8.0\PrototypeObserverDVch.deps.json
+C:\Users\DELL\Desktop\PrototypeObserverDVch\bin\Debug\net8.0\PrototypeObserverDVch.runtimeconfig.json
+C:\Users\DELL\Desktop\PrototypeObserverDVch\bin\Debug\net8.0\PrototypeObserverDVch.dll
+C:\Users\DELL\Desktop\PrototypeObserverDVch\bin\Debug\net8.0\PrototypeObserverDVch.pdb
+C:\Users\DELL\Desktop\PrototypeObserverDVch\obj\Debug\net8.0\PrototypeObserverDVch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\PrototypeObserverDVch\obj\Debug\net8.0\PrototypeObserverDVch.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\PrototypeObserverDVch\obj\Debug\net8.0\PrototypeObserverDVch.AssemblyInfo.cs
+C:\Users\DELL\Desktop\PrototypeObserverDVch\obj\Debug\net8.0\PrototypeObserverDVch.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PrototypeObserverDVch\obj\Debug\net8.0\PrototypeObserverDVch.dll
+C:\Users\DELL\Desktop\PrototypeObserverDVch\obj\Debug\net8.0\refint\PrototypeObserverDVch.dll
+C:\Users\DELL\Desktop\PrototypeObserverDVch\obj\Debug\net8.0\PrototypeObserverDVch.pdb
+C:\Users\DELL\Desktop\PrototypeObserverDVch\obj\Debug\net8.0\PrototypeObserverDVch.genruntimeconfig.cache
+C:\Users\DELL\Desktop\PrototypeObserverDVch\obj\Debug\net8.0\ref\PrototypeObserverDVch.dll
